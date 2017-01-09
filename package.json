@@ -1,0 +1,40 @@
+{
+  "name": "colector",
+  "version": "1.0.0",
+  "description": "Prueba de colector en cerebal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cerebral": "2.0.0-0-alpha.9da45535",
+    "cerebral-forms": "1.0.0-0-alpha.33632179",
+    "cerebral-provider-http": "1.0.0-0-alpha.9da45535",
+    "cerebral-router": "1.0.0-0-alpha.9da45535",
+    "function-tree": "0.5.0-0-alpha.9da45535",
+    "gulp-duration": "0.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.9.1",
+    "inferno": "^1.0.7",
+    "inferno-component": "^1.0.7",
+    "inferno-create-element": "^1.0.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-plugin-inferno": "^1.4.0",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "browser-sync": "^2.18.2",
+    "eslint": "^3.12.2",
+    "webpack": "^1.13.3",
+    "webpack-stream": "^3.2.0"
+  }
+}
